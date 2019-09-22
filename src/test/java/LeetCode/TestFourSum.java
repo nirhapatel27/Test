@@ -2,13 +2,13 @@ package LeetCode;
 
 import org.junit.Test;
 
-public class TestRandom {
+public class TestFourSum {
 
-  private LeetCode.Test test = new LeetCode.Test();
+  private FourSum fourSum = new FourSum();
   @Test
   public void random() {
     int arr[] = new int[]{1,0,-1,0,-2,2};
 
-    test.fourSum(arr, 0 );
+    fourSum.fourSum(arr, 0 );
   }
 }

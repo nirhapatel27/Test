@@ -9,7 +9,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Test {
+public class FourSum {
 
   public List<List<Integer>> fourSum(int[] nums, int target) {
     List<List<Integer>> result = new ArrayList<>();

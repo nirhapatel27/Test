@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7455e731-5fb5-46a5-ad79-3e281c38b96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestGroupAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/FourSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestFourSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestRandom.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRandom.random">
-    <configuration name="TestRandom.r" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestGroupAnagrams.testMapWordToSet">
+    <configuration name="TestFourSum.r" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -72,14 +69,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestRandom" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TestFourSum" />
       <option name="METHOD_NAME" value="r" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRandom.random" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFourSum.random" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +85,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestRandom" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TestFourSum" />
       <option name="METHOD_NAME" value="random" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGroupAnagrams.testMapWordToSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TestGroupAnagrams" />
+      <option name="METHOD_NAME" value="testMapWordToSet" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,8 +120,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRandom.random" />
-        <item itemvalue="JUnit.TestRandom.r" />
+        <item itemvalue="JUnit.TestGroupAnagrams.testMapWordToSet" />
+        <item itemvalue="JUnit.TestFourSum.random" />
+        <item itemvalue="JUnit.TestFourSum.r" />
         <item itemvalue="JUnit.TestRandom.test" />
       </list>
     </recent_temporary>
