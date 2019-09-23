@@ -3,7 +3,7 @@ package LeetCode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TrappingRainWater {
+public class SpiralOrderMatrix {
   public List<Integer> spiralOrder(int[][] matrix) {
     List ans = new ArrayList();
     if (matrix.length == 0) return ans;

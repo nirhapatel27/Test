@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7455e731-5fb5-46a5-ad79-3e281c38b96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestTrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/MinWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestMinWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/SpiralOrderMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestTrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestSpiralOrderMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/TrappingRainWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestTrappingRainWater.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestTrappingRainWater.testSpiralOrder">
+  <component name="RunManager" selected="JUnit.TestMinWindow.testMinWindow">
     <configuration name="TestFourSum.r" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
@@ -104,17 +108,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRandom.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestRandom" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTrappingRainWater.testSpiralOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMinWindow.testMinWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -123,7 +117,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestTrappingRainWater" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TestMinWindow" />
+      <option name="METHOD_NAME" value="testMinWindow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpiralOrderMatrix.testSpiralOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TestSpiralOrderMatrix" />
       <option name="METHOD_NAME" value="testSpiralOrder" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -132,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestTrappingRainWater.testSpiralOrder" />
+        <item itemvalue="JUnit.TestMinWindow.testMinWindow" />
+        <item itemvalue="JUnit.TestSpiralOrderMatrix.testSpiralOrder" />
         <item itemvalue="JUnit.TestGroupAnagrams.testMapWordToSet" />
         <item itemvalue="JUnit.TestFourSum.random" />
         <item itemvalue="JUnit.TestFourSum.r" />
-        <item itemvalue="JUnit.TestRandom.test" />
       </list>
     </recent_temporary>
   </component>
