@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7455e731-5fb5-46a5-ad79-3e281c38b96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/MinWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestMinWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestValidPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/SpiralOrderMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestTrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestSpiralOrderMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/TrappingRainWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestTrappingRainWater.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -59,23 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMinWindow.testMinWindow">
-    <configuration name="TestFourSum.r" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestFourSum" />
-      <option name="METHOD_NAME" value="r" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestValidPalindrome.testValidPalindrome">
     <configuration name="TestFourSum.random" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
@@ -140,13 +121,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestValidPalindrome.testValidPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TestValidPalindrome" />
+      <option name="METHOD_NAME" value="testValidPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestValidPalindrome.testValidPalindrome" />
         <item itemvalue="JUnit.TestMinWindow.testMinWindow" />
         <item itemvalue="JUnit.TestSpiralOrderMatrix.testSpiralOrder" />
         <item itemvalue="JUnit.TestGroupAnagrams.testMapWordToSet" />
         <item itemvalue="JUnit.TestFourSum.random" />
-        <item itemvalue="JUnit.TestFourSum.r" />
       </list>
     </recent_temporary>
   </component>
