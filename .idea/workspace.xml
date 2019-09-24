@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7455e731-5fb5-46a5-ad79-3e281c38b96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestMajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/ArrayProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/FirstUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestArrayProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestFirstUniqueCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +58,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMajorityElement.testMajorityElement">
-    <configuration name="TestGroupAnagrams.testMapWordToSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestFirstUniqueCharacter.testFirstUniqChar">
+    <configuration name="TestArrayProduct.testProductExceptSelf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +68,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestGroupAnagrams" />
-      <option name="METHOD_NAME" value="testMapWordToSet" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TestArrayProduct" />
+      <option name="METHOD_NAME" value="testProductExceptSelf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFirstUniqueCharacter.testFirstUniqChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TestFirstUniqueCharacter" />
+      <option name="METHOD_NAME" value="testFirstUniqChar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,22 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSpiralOrderMatrix.testSpiralOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestSpiralOrderMatrix" />
-      <option name="METHOD_NAME" value="testSpiralOrder" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestValidPalindrome.testValidPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
@@ -138,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestFirstUniqueCharacter.testFirstUniqChar" />
+        <item itemvalue="JUnit.TestArrayProduct.testProductExceptSelf" />
         <item itemvalue="JUnit.TestMajorityElement.testMajorityElement" />
         <item itemvalue="JUnit.TestValidPalindrome.testValidPalindrome" />
         <item itemvalue="JUnit.TestMinWindow.testMinWindow" />
-        <item itemvalue="JUnit.TestSpiralOrderMatrix.testSpiralOrder" />
-        <item itemvalue="JUnit.TestGroupAnagrams.testMapWordToSet" />
       </list>
     </recent_temporary>
   </component>
