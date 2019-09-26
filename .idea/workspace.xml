@@ -2,11 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7455e731-5fb5-46a5-ad79-3e281c38b96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/ArrayProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode/FirstUniqueCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestArrayProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/TestFirstUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/SortedSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/SubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeLinkedList/AddTwoNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestSortedSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeLinkedList/TestAddTwoNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/ArrayProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/ArrayProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/FirstUniqueCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/FirstUniqueCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/FourSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/FourSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/MinWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/MinWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/SpiralOrderMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/SpiralOrderMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestArrayProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestArrayProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestFirstUniqueCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestFirstUniqueCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestFourSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestFourSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestGroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestGroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestMajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestMajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestMinWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestMinWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestSpiralOrderMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestSpiralOrderMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/TestValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/ArrayProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/FirstUniqueCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/FourSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/GroupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/MajorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/MinWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/SpiralOrderMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCode/ValidPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestArrayProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestFirstUniqueCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestFourSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestGroupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestMajorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestMinWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestSpiralOrderMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/TestValidPalindrome.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +82,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,18 +96,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestFirstUniqueCharacter.testFirstUniqChar">
-    <configuration name="TestArrayProduct.testProductExceptSelf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestAddTwoNums.testAddTwoNums">
+    <configuration name="TestAddTwoNums.testAddTwoNums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCodeLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestArrayProduct" />
-      <option name="METHOD_NAME" value="testProductExceptSelf" />
+      <option name="PACKAGE_NAME" value="LeetCodeLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeLinkedList.TestAddTwoNums" />
+      <option name="METHOD_NAME" value="testAddTwoNums" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,61 +117,61 @@
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCodeArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestFirstUniqueCharacter" />
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestFirstUniqueCharacter" />
       <option name="METHOD_NAME" value="testFirstUniqChar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMajorityElement.testMajorityElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSortedSquares.testSortedSquares" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCodeArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestMajorityElement" />
-      <option name="METHOD_NAME" value="testMajorityElement" />
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestSortedSquares" />
+      <option name="METHOD_NAME" value="testSortedSquares" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMinWindow.testMinWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestValidParentheses.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCodeArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestMinWindow" />
-      <option name="METHOD_NAME" value="testMinWindow" />
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestValidParentheses" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestValidPalindrome.testValidPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCodeArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.TestValidPalindrome" />
-      <option name="METHOD_NAME" value="testValidPalindrome" />
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.Test" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestAddTwoNums.testAddTwoNums" />
+        <item itemvalue="JUnit.TestValidParentheses.test" />
+        <item itemvalue="JUnit.TestSortedSquares.testSortedSquares" />
+        <item itemvalue="JUnit.Test.test1" />
         <item itemvalue="JUnit.TestFirstUniqueCharacter.testFirstUniqChar" />
-        <item itemvalue="JUnit.TestArrayProduct.testProductExceptSelf" />
-        <item itemvalue="JUnit.TestMajorityElement.testMajorityElement" />
-        <item itemvalue="JUnit.TestValidPalindrome.testValidPalindrome" />
-        <item itemvalue="JUnit.TestMinWindow.testMinWindow" />
       </list>
     </recent_temporary>
   </component>
