@@ -2,51 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7455e731-5fb5-46a5-ad79-3e281c38b96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeLinkedList/MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeLinkedList/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeRecursion/LetterCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeTree/MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeTree/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeLinkedList/TestMergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeLinkedList/TestReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeRecursion/TestLetterCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeTree/TestSameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeTree/gardening.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeTree/tes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/DuplicateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/oneEditDIstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeDesign/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/ArrayMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/SearchRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestDuplicateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeSorting/TestArrayMedian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCodeLinkedList/AddTwoNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeLinkedList/AddTwoNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCodeLinkedList/TestAddTwoNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeLinkedList/TestAddTwoNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/ArrayProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/ArrayProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/FirstUniqueCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/FirstUniqueCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/FourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/FourSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/GroupAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/Interview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/MajorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/MinWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/MinWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/SortedSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/SortedSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/SpiralOrderMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/SpiralOrderMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/SubarraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/SubarraySum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/ValidPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/ValidPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/ValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/ValidParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeLinkedList/AddTwoNums$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeLinkedList/AddTwoNums$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeLinkedList/AddTwoNums.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeLinkedList/AddTwoNums.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestArrayProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestArrayProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestFirstUniqueCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestFirstUniqueCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestFourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestFourSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestGroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestGroupAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestMajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestMajorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestMinWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestMinWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestSortedSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestSortedSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestSpiralOrderMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestSpiralOrderMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestSubarraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestSubarraySum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestValidPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestValidPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestValidParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeLinkedList/TestAddTwoNums.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeLinkedList/TestAddTwoNums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCodeRecursion/LetterCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeRecursion/LetterCombination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeRecursion/TestLetterCombination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeRecursion/TestLetterCombination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeTree/tes.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestLetterCombination.testLetterCombinations">
+  <component name="RunManager" selected="JUnit.TestDuplicateNum.testRemoveDuplicates">
     <configuration name="TestAddTwoNums.testAddTwoNums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
@@ -110,6 +76,22 @@
       <option name="PACKAGE_NAME" value="LeetCodeLinkedList" />
       <option name="MAIN_CLASS_NAME" value="LeetCodeLinkedList.TestAddTwoNums" />
       <option name="METHOD_NAME" value="testAddTwoNums" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDuplicateNum.testRemoveDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestDuplicateNum" />
+      <option name="METHOD_NAME" value="testRemoveDuplicates" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,29 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestValidParentheses.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCodeArray" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestValidParentheses" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestDuplicateNum.testRemoveDuplicates" />
         <item itemvalue="JUnit.TestLetterCombination.testLetterCombinations" />
         <item itemvalue="JUnit.TestReverseLinkedList.testReverseLinkedList" />
         <item itemvalue="JUnit.TestMergeTwoLists.test" />
         <item itemvalue="JUnit.TestAddTwoNums.testAddTwoNums" />
-        <item itemvalue="JUnit.TestValidParentheses.test" />
       </list>
     </recent_temporary>
   </component>
