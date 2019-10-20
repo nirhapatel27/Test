@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7455e731-5fb5-46a5-ad79-3e281c38b96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/DuplicateNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/oneEditDIstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeDesign/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/ArrayMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/SearchRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestDuplicateNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeSorting/TestArrayMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/DivideNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestMoveZeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCodeRecursion/LetterCombination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeRecursion/LetterCombination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeRecursion/TestLetterCombination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeRecursion/TestLetterCombination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeTree/tes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCodeArray/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCodeArray/oneEditDIstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/oneEditDIstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestOneEditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestOneEditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/DuplicateNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/DuplicateNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LeetCodeArray/ValidPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LeetCodeArray/ValidPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestValidPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCodeArray/TestValidPalindrome.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,23 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestDuplicateNum.testRemoveDuplicates">
-    <configuration name="TestAddTwoNums.testAddTwoNums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCodeLinkedList" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeLinkedList.TestAddTwoNums" />
-      <option name="METHOD_NAME" value="testAddTwoNums" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestValidPalindrome.testValidPalindromeTwo">
     <configuration name="TestDuplicateNum.testRemoveDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
@@ -113,33 +97,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMergeTwoLists.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMoveZeroes.testLengthOfLongestSubstringKDistinct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeTree.*" />
+          <option name="PATTERN" value="LeetCodeArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCodeLinkedList" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeLinkedList.TestMergeTwoLists" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestMoveZeroes" />
+      <option name="METHOD_NAME" value="testLengthOfLongestSubstringKDistinct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestReverseLinkedList.testReverseLinkedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestOneEditDistance.testIsOneEditDistance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCodeTree.*" />
+          <option name="PATTERN" value="LeetCodeArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCodeLinkedList" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeLinkedList.TestReverseLinkedList" />
-      <option name="METHOD_NAME" value="testReverseLinkedList" />
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestOneEditDistance" />
+      <option name="METHOD_NAME" value="testIsOneEditDistance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestValidPalindrome.testValidPalindromeTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestValidPalindrome" />
+      <option name="METHOD_NAME" value="testValidPalindromeTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestValidPalindrome.testValidPalindromeTwo" />
+        <item itemvalue="JUnit.TestMoveZeroes.testLengthOfLongestSubstringKDistinct" />
+        <item itemvalue="JUnit.TestOneEditDistance.testIsOneEditDistance" />
         <item itemvalue="JUnit.TestDuplicateNum.testRemoveDuplicates" />
         <item itemvalue="JUnit.TestLetterCombination.testLetterCombinations" />
-        <item itemvalue="JUnit.TestReverseLinkedList.testReverseLinkedList" />
-        <item itemvalue="JUnit.TestMergeTwoLists.test" />
-        <item itemvalue="JUnit.TestAddTwoNums.testAddTwoNums" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +188,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCodeLinkedList/AddTwoNums.java</url>
           <line>21</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCodeArray/ValidPalindrome.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
