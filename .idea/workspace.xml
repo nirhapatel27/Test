@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7455e731-5fb5-46a5-ad79-3e281c38b96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/FindPeekIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestPlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeSorting/TestContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeSorting/TestDivideNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeSorting/TestFindPeekIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/Financeit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/Google/Contest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/InterviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/MissingRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/Google/TestGoogle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestFinanceit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestInterviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestMissingRanges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/DivideNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeSorting/DivideNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCodeArray/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeArray/LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCodeArray/TestLongestSubstring.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +49,8 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/LeetCodeArray" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/cs111-a5" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -62,56 +68,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestPlusOne.testPlusOne">
-    <configuration name="TestContainerWithMostWater.testMaxArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeSorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCodeSorting" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSorting.TestContainerWithMostWater" />
-      <option name="METHOD_NAME" value="testMaxArea" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDivideNumber.testDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeSorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCodeSorting" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSorting.TestDivideNumber" />
-      <option name="METHOD_NAME" value="testDivide" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFindPeekIndex.testFidnPeakElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeSorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCodeSorting" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSorting.TestFindPeekIndex" />
-      <option name="METHOD_NAME" value="testFidnPeakElement" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPlusOne.testPlusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestAmazon.test">
+    <configuration name="TestAmazon.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -120,14 +78,30 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="LeetCodeArray" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestPlusOne" />
-      <option name="METHOD_NAME" value="testPlusOne" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestAmazon" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestValidPalindrome.testValidPalindromeTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGoogle.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeArray.Google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCodeArray.Google" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.Google.TestGoogle" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInterviewTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +110,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="LeetCodeArray" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestValidPalindrome" />
-      <option name="METHOD_NAME" value="testValidPalindromeTwo" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestInterviewTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMissingRanges.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestMissingRanges" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMissingRanges.testFindMissingRanges" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCodeArray" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeArray.TestMissingRanges" />
+      <option name="METHOD_NAME" value="testFindMissingRanges" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestPlusOne.testPlusOne" />
-        <item itemvalue="JUnit.TestContainerWithMostWater.testMaxArea" />
-        <item itemvalue="JUnit.TestFindPeekIndex.testFidnPeakElement" />
-        <item itemvalue="JUnit.TestDivideNumber.testDivide" />
-        <item itemvalue="JUnit.TestValidPalindrome.testValidPalindromeTwo" />
+        <item itemvalue="JUnit.TestAmazon.test" />
+        <item itemvalue="JUnit.TestInterviewTest.test" />
+        <item itemvalue="JUnit.TestGoogle.test" />
+        <item itemvalue="JUnit.TestMissingRanges.test" />
+        <item itemvalue="JUnit.TestMissingRanges.testFindMissingRanges" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +197,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCodeArray/ValidPalindrome.java</url>
           <line>24</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCodeArray/LongestSubstring.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCodeArray/MissingRanges.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCodeArray/Google/Contest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCodeArray/InterviewTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCodeArray/InterviewTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCodeArray/Amazon.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
